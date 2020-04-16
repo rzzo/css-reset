@@ -3,8 +3,8 @@
 	"version": "1.0.0",
 	"description": "A very simple CSS Reset.",
 	"publishConfig": {
-    "access": "public"
-  },
+		"access": "public"
+	},
 	"main": "dist/reset.min.css",
 	"scripts": {
 		"release": "np"
