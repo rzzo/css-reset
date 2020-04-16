@@ -2,9 +2,9 @@
 	"name": "@rzzo/css-reset",
 	"version": "1.0.0",
 	"description": "A very simple CSS Reset.",
-	"main": "reset.css",
+	"main": "dist/reset.min.css",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"release": "np"
 	},
 	"repository": {
 		"type": "git",
@@ -20,8 +20,10 @@
 		"np": "^6.2.0"
 	},
 	"homepage": "https://github.com/rzzo/css-reset#readme",
+	"bugs": {
+		"url": "https://github.com/rzzo/css-reset/issues"
+	},
 	"np": {
-		"yarn": false,
 		"contents": "dist"
 	}
 }
