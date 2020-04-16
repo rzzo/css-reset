@@ -1,27 +1,27 @@
 {
-  "name": "@rzzo/css-reset",
-  "version": "1.0.0",
-  "description": "A very simple CSS Reset.",
-  "main": "reset.css",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+	"name": "@rzzo/css-reset",
+	"version": "1.0.0",
+	"description": "A very simple CSS Reset.",
+	"main": "reset.css",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/rzzo/css-reset"
 	},
-  "keywords": [
-    "CSS",
-    "reset"
-  ],
-  "author": "Travis Bredehoft <bredehoft@gmail.com> (https://travisbredehoft.com)",
-  "license": "MIT",
-  "devDependencies": {
-    "np": "^6.2.0"
+	"keywords": [
+		"CSS",
+		"reset"
+	],
+	"author": "Travis Bredehoft <bredehoft@gmail.com> (https://travisbredehoft.com)",
+	"license": "MIT",
+	"devDependencies": {
+		"np": "^6.2.0"
 	},
 	"homepage": "https://github.com/rzzo/css-reset#readme",
 	"np": {
 		"yarn": false,
 		"contents": "dist"
-},
+	}
 }
