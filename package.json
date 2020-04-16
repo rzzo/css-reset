@@ -1,5 +1,5 @@
 {
-  "name": "css-reset",
+  "name": "@rzzo/css-reset",
   "version": "1.0.0",
   "description": "A very simple CSS Reset.",
   "main": "reset.css",
@@ -19,5 +19,9 @@
   "devDependencies": {
     "np": "^6.2.0"
 	},
-	"homepage": "https://github.com/rzzo/css-reset#readme"
+	"homepage": "https://github.com/rzzo/css-reset#readme",
+	"np": {
+		"yarn": false,
+		"contents": "dist"
+},
 }
