@@ -4,8 +4,8 @@ This repository contains the CSS Reset that I reach for in my projects. This is 
 
 ## Whats inside
  - reset.scss - The build file
- - reset.css - Compiled (Compact) version of reset.scss
- - reset.min.css - Compiled version of reset.scss
+ - reset.css - Compact version of reset.scss
+ - reset.min.css - Compressed version of reset.scss
 
 ## Installation
 
